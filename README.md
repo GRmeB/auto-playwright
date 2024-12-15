@@ -1,6 +1,6 @@
 # Auto Playwright
 
-Run Playwright tests using AI.
+Run Playwright tests using AI. 
 
 ## Setup
 
